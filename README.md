@@ -9,3 +9,5 @@ C2 - [L'Espion](c2.md)
 C3 - [Le crocheteur](c3.md)
 
 C4 - [Le pickpocket](c4.md)
+
+C5 - [L'appât](c5.md)

@@ -1,19 +1,25 @@
-# sae11
+# Le Bachelor des Légendes (BDL)
 
-Défis pour la SAE11
+## Contexte
 
-C1 - [Le Caméléon](c1.md)
+Vous êtes Sylvain Ellenstein, expert en informatique pour les services de renseignement français (DGSE). 
 
-C2 - [L'Espion](c2.md)
+Vous avez récemment rejoint la Direction technique, pour intégrer le service des opérations sécurisées au sein duquel vous allez pouvoir exercer vos talents de cyber-espion. 
 
-C3 - [Le crocheteur](c3.md)
+## Missions
 
-C4 - [Le pickpocket](c4.md)
+M1 - [Le Caméléon](c1.md)
 
-C5 - [L'appât](c5.md)
+M2 - [L'Espion](c2.md)
 
-C6 - [Le harceleur](c6.md)
+M3 - [Le crocheteur](c3.md)
 
-C7 - [L'insomniaque](c7.md)
+M4 - [Le pickpocket](c4.md)
 
-C8 - [La porte dérobée](c8.md)
+M5 - [L'appât](c5.md)
+
+M6 - [Le harceleur](c6.md)
+
+M7 - [L'insomniaque](c7.md)
+
+M8 - [La porte dérobée](c8.md)

@@ -2,9 +2,9 @@
 
 ## Contexte
 
-Vous êtes Sylvain Ellenstein, expert en informatique pour les services de renseignement français (DGSE). 
+Vous êtes Sylvain Ellenstein, expert en informatique pour les services de renseignement français (DGSE). Vous avez récemment rejoint le service des opérations sécurisées, au sein duquel vous aurez l'occasion de démontrer vos talents de cyber-espion. 
 
-Vous avez récemment rejoint le service des opérations sécurisées, au sein duquel vous aurez l'occasion de démontrer vos talents de cyber-espion. Intrusion dans des réseaux ennemis, interception de communications, espionnage, exfiltration de données confidentielles : dans le monde du cyber-espionnage, tous les coups sont permis pour garder une longueur d'avance sur ses adversaires !
+Intrusion dans des réseaux ennemis, interception de communications, espionnage, exfiltration de données confidentielles : dans le monde du cyber-espionnage, tous les coups sont permis pour garder une longueur d'avance sur ses adversaires !
 
 ## Missions
 
